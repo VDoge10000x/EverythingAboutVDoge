@@ -14,7 +14,7 @@ bscscan: https://bscscan.com/token/0x644C7aBD03CE609c02E9021187E2AEB55170ddC0#ba
 ![image](https://user-images.githubusercontent.com/101396169/157848547-64b2af1e-e8ed-4d71-a718-5af2120dc9b8.png)
 
 池子:初始底池42BNB, 第一期锁定180天; 手续费回流池子并打入黑洞
-## 项目信息
+## 官方地址
 * twitter
 https://twitter.com/VirusDogebsc
 * telegram
