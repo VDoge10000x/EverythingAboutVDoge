@@ -3,6 +3,7 @@ Everything about VDoge
 
 # 项目信息
 ## 代币信息
+登录时间: 2022-3-4
 合约: 0x644C7aBD03CE609c02E9021187E2AEB55170ddC0
 
 K线: https://poocoin.app/tokens/0x644c7abd03ce609c02e9021187e2aeb55170ddc0
@@ -14,6 +15,7 @@ bscscan: https://bscscan.com/token/0x644C7aBD03CE609c02E9021187E2AEB55170ddC0#ba
 ![image](https://user-images.githubusercontent.com/101396169/157848547-64b2af1e-e8ed-4d71-a718-5af2120dc9b8.png)
 
 池子:初始底池42BNB, 第一期锁定180天; 手续费回流池子并打入黑洞
+手续费配比: 7/2/1 池子/营销/空投感染
 ## 官方地址
 * twitter
 https://twitter.com/VirusDogebsc
@@ -30,7 +32,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfeue59jOOo0b0PD3wNIHtFjxzHAXD67BdRCHj6
 
 ## 公益慈善
 * 支援非洲抗疫
-* 
+ 
 ![image](https://user-images.githubusercontent.com/101396169/157847553-48eeee78-40a1-46af-9004-09d94dba6e9c.png)
 
 
