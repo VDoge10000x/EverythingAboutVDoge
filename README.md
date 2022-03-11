@@ -3,6 +3,10 @@ Everything about VDoge
 
 # 项目信息
 ## 代币信息
+合约: 0x644C7aBD03CE609c02E9021187E2AEB55170ddC0
+K线: https://poocoin.app/tokens/0x644c7abd03ce609c02e9021187e2aeb55170ddc0
+bscscan: https://bscscan.com/token/0x644C7aBD03CE609c02E9021187E2AEB55170ddC0#balances
+
 ![image](https://user-images.githubusercontent.com/101396169/157848429-f7fd4ae7-ccf6-4822-8921-e2bbb9b9e719.png)
 ![image](https://user-images.githubusercontent.com/101396169/157848547-64b2af1e-e8ed-4d71-a718-5af2120dc9b8.png)
 
@@ -14,9 +18,8 @@ https://twitter.com/VirusDogebsc
 https://t.me/VirusDogeOffice
 * telegram-en
 https://t.me/VirusDogeEN
-* website
-
-* 
+* website(二期更新中)
+http://virsdoge.com/
 
 # 项目活动
 ## 建议表
@@ -77,8 +80,8 @@ https://bscscan.com/tx/0xd4c8fa265bf01bf75c59b8a2b80e9507b0cad9041998fa88b898ac2
 
 
 ## 应用落地
-
-## 其他
+* VDoge-NFT 即将到来
+# 其他
 ```
 Virus Doge（V-Doge）🦠病毒狗🐶
 3.6日上MSG热搜第一，3.7日TP头像已上，自制LOGO抗疫口罩已经储备到位。项目方捐助正在进行时！欢迎大家持续关注！
