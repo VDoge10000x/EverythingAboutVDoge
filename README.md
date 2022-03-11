@@ -27,6 +27,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfeue59jOOo0b0PD3wNIHtFjxzHAXD67BdRCHj6
 
 ## 公益慈善
 * 支援非洲抗疫
+* 
 ![image](https://user-images.githubusercontent.com/101396169/157847553-48eeee78-40a1-46af-9004-09d94dba6e9c.png)
 
 
@@ -69,13 +70,17 @@ https://bscscan.com/tx/0xd4c8fa265bf01bf75c59b8a2b80e9507b0cad9041998fa88b898ac2
 ## 营销记录
 * 20+ 社群置顶
 * tp头像&tp热搜
+* 
  ![image](https://user-images.githubusercontent.com/101396169/157847745-0b0f8382-1ab8-4f18-8172-9e40665d1e64.png)
 *MSG热榜
+
 ![image](https://user-images.githubusercontent.com/101396169/157848308-3c8d8b1d-a92d-48db-826c-5666e45736c3.png)
 
 * twitter点赞
+* 
  ![image](https://user-images.githubusercontent.com/101396169/157847831-2007b954-a92f-45c0-86a0-bb57c45cd178.png)
 * coinbazooka 热币
+* 
 ![image](https://user-images.githubusercontent.com/101396169/157847864-de36abd7-ac98-4ea7-bed1-acb6273f97cd.png)
 
 
