@@ -1,6 +1,9 @@
 # EverythingAboutVDoge
 Everything about VDoge
 
+![v-dog](https://user-images.githubusercontent.com/101396169/157859834-677e20d0-a355-4bec-8aa0-0738f2248610.jpg)
+
+
 # 项目信息
 ## 代币信息
 登录时间: 2022-3-4
